@@ -1,7 +1,7 @@
 Sunday 2024-08-25:
   ________ __d______ (night 11:30pm):
   ___y_ _____ (night):
-    Julya Karma
+X   Julya Karma
   _____ ____i__ (night):
     Blake Maurice
     Ernie Trevino
@@ -33,7 +33,7 @@ Sunday 2024-08-25:
   _a____ ___ (day):
     Hammer Von
     Random Rab
-    Sainte Vie
+X   Sainte Vie
   ______r_ (day):
     KalaMari
     KreaturA
@@ -61,7 +61,7 @@ Monday 2024-08-26:
   ______ _a_____ (night):
     Boston Kassidy
     Dallas Kashuba
-    Damian Lazarus
+X   Damian Lazarus
     Martin Marquez
     mystic dancers
   _h___ ______ (night):
@@ -90,14 +90,14 @@ Monday 2024-08-26:
     Vybez
     zeker
   _a____ _____ (sunrise):
-    Faisal Malas
+X   Faisal Malas
     Halley Gregg
     Lauren Frisk
     Martin Fuego
     Parker Mills
     Patrik Khach
   __s__ (day):
-    CRSTO
+X   CRSTO
     Casio
     Dyson
     Essty
@@ -108,7 +108,7 @@ Monday 2024-08-26:
 Tuesday 2024-08-27:
   ______m___ (night 11:30pm):
     Campmomdad
-    Equanimous
+X   Equanimous
     RumbleMonk
   ______n ______ (night):
     Madison Orange
@@ -120,7 +120,7 @@ Tuesday 2024-08-27:
     Alias
     Amare
     Aphex
-    Atish
+X   Atish
     Ayvri
     Azlan
   ______e___ (day):
@@ -137,7 +137,7 @@ Tuesday 2024-08-27:
 
 Wednesday 2024-08-28:
   ____t___ ____ (day 6:00pm):
-    Fleetmac Wood
+X   Fleetmac Wood
     Jonathan Will
 
 Thursday 2024-08-29:
@@ -153,7 +153,7 @@ Thursday 2024-08-29:
     Jason Woo
     Mario Lui
     Nacho Isa
-    Saint Vie
+X   Saint Vie
   __i__ _______ B2B ____ _m___ (night):
     Alice Mariano
     Brian Fantana
@@ -247,7 +247,7 @@ Thursday 2024-08-29:
     Ryan Spaulding
   ___n___ _______ B2B ____f____ (day 4:00pm):
     Auraflora
-    Francis Mercier
+X   Francis Mercier
   __i___ (sunset):
     Alicia
     Chikaa
@@ -288,18 +288,18 @@ Friday 2024-08-30:
   _i__ & ____ ____a________ (night):
   _e__ ____ (night):
     Deep Fish
-    Deer Jade
+X   Deer Jade
     Lena Ozea
     Sean Raya
     dela Moon
   ___ __r_____ (sunrise):
-    Ali Farahani
+X   Ali Farahani
     Max Moreland
     Stu Morphius
   __n____ _______ (night):
     Jonelle Lesniak
     Vanilla Unicorn
-    Vintage Culture
+X   Vintage Culture
 
 Saturday 2024-08-31:
   __i__ (night 8:00pm):
